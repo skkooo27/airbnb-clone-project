@@ -46,7 +46,7 @@ Docker	Ensures consistency across environments via containers.
 
 GitHub Actions	Automates tests, builds, and deployments using workflows.
 
-🗂 Database Design
+Database Design
 Key Entities and Fields
 Users
 
@@ -110,8 +110,8 @@ System Integrity: Prevents unauthorized data access or manipulation.
 Trust & Compliance: Builds user trust and ensures legal compliance.
 
  CI/CD Pipeline
-What is CI/CD?
-CI/CD (Continuous Integration and Continuous Deployment) automates testing, building, and deployment of code changes to improve reliability and speed.
+CI/CD (Continuous Integration and Continuous Deployment) automates testing,
+building, and deployment of code changes to improve reliability and speed.
 
 Tools
 GitHub Actions: Automate workflows for code testing and deployment.
